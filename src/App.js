@@ -40,10 +40,8 @@ function App() {
       
       <header className="App-header">
         <h1>FCQs</h1>
-        {/* <img src={logo} className="App-logo" alt="logo" /> */}
-
         <p>
-          Hello World;
+          Hello World
         </p>
       </header>
 
@@ -53,13 +51,3 @@ function App() {
 }
 
 export default App;
-
-{/* links */}
-        {/* <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a> */}

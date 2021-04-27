@@ -1,14 +1,10 @@
-import './App.css';
+import "./App.css";
 
-import TableauEmbed from './components/TableauEmbed'
+import Content from "./navigation/Content.js";
+import React from "react";
 
 function App() {
-  return (
-    <div className="App">
-      <h1>Tableau Embed</h1>
-      <TableauEmbed />
-    </div>
-  );
+  return <Content />;
 }
 
 export default App;
